@@ -38,4 +38,3 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Error fetching puppies:", error);
   }
 });
-jmg;
