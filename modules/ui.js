@@ -15,5 +15,4 @@ const displayPuppies = (puppies) => {
     gallery.appendChild(imgElement);
   });
 };
-
 module.exports = { displayPuppies };
