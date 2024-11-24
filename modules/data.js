@@ -7,4 +7,3 @@ const getNextPage = () => {
 };
 
 module.exports = { getNextPage };
-sad;

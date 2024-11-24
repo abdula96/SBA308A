@@ -15,4 +15,3 @@ const getPuppies = async (page = 1) => {
     return []; // Return an empty array if there's an error
   }
 };
-wwx;
