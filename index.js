@@ -50,4 +50,3 @@ app.listen(PORT, () => {
 app.get("/test-api", (req, res) => {
   res.send("API is working!");
 });
-f;
