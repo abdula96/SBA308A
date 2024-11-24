@@ -14,3 +14,5 @@ const getPuppies = async (page = 1) => {
     console.error("Error fetching puppy data:", error);
     return []; // Return an empty array if there's an error
   }
+};
+wwx;
